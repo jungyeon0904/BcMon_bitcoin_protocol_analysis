@@ -6,7 +6,8 @@ Providing the bitcoin protocol extension file
 : sendcmpct, cmpctblock, getblocktxn, blocktxn
 
 # Build instructions :
-Linux // Ubuntu 18.04, Wireshark 3.3.1
+// Ubuntu 18.04, Wireshark 3.3.1
+
 1. Clone this repository 
 2. Move the lua file into ~/wireshark/<filename>.lua
 3. Update ~/wireshark/init.lua
