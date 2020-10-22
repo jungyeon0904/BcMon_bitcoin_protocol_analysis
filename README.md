@@ -2,7 +2,7 @@
 A wireshark dissector for the bitcoin protocol.
 
 # Build instructions :
-Linux
+Linux // Ubuntu 18.04, Wireshark 3.3.1
 1. Clone this repository 
 2. Move the lua file into ~/wireshark/<filename>.lua
 3. Update ~/wireshark/init.lua
