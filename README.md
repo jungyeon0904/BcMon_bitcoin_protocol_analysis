@@ -22,6 +22,7 @@ as follows: dofile(“home/user/wireshark/<filename>.lua”)
 # getdata packet // ERROR
 
 <img src="https://user-images.githubusercontent.com/57450244/96888036-290e2000-14c0-11eb-8ab9-3aea6e95a1d0.JPG" width="70%"></img>
+
 "MSG_CMPCT_BLOCK" inventory type field marked "Unknown (error)"
 
 The object type is currently defined as one of the following possibilities:
