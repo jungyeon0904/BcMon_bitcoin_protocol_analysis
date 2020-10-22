@@ -1,5 +1,9 @@
 # BcMon_bitcoin_protocol_analysis
-A wireshark dissector for the bitcoin protocol.
+New protocol messages that have been changed during block delivery due to Bitcoin Core version upgrade are not included in the Wireshark dissectors.
+BcMon provides a Wireshark Bitcoin protocol analysis extension file.
+
+Providing the bitcoin protocol extension file
+: sendcmpct, cmpctblock, getblocktxn, blocktxn
 
 # Build instructions :
 Linux // Ubuntu 18.04, Wireshark 3.3.1
