@@ -21,7 +21,7 @@ See the Wireshark Developer's Guide chapter on Lua
 2. Move the lua file into Wireshark's global configuration directory
 3. At the end of the init.lua file located in the Wireshark's global configuration directory, 
 
-   specify the path to the < filename >.lua file as follows: **dofile(DATA_DIR.."filename.lua”)**
+   specify the path to the <filename>.lua file as follows: **dofile(DATA_DIR.."filename.lua”)**
 4. Save init.lua and run wireshark
 
    
