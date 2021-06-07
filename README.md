@@ -8,9 +8,10 @@ Providing the bitcoin protocol extension file
 # How To Run This Script:
 // Ubuntu 18.04, Wireshark 3.3.1
 
-See the Wireshark Developer's Guide chapter on Lua
 
+See the Wireshark Developer's Guide chapter on Lua
 (https://www.wireshark.org/docs/wsdg_html_chunked/wsluarm.html).
+
 
 1. Clone this repository 
 2. Move the lua file into Wireshark's global configuration directory
