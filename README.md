@@ -11,14 +11,8 @@ Providing the bitcoin protocol extension file
 // Ubuntu 18.04, Wireshark 3.3.1
 
 
-
-
 See the Wireshark Developer's Guide chapter on Lua
-
-
 (https://www.wireshark.org/docs/wsdg_html_chunked/wsluarm.html).
-
-
 
 
 1. Clone this repository 
@@ -26,10 +20,7 @@ See the Wireshark Developer's Guide chapter on Lua
 3. At the end of the init.lua file located in the Wireshark's global configuration directory, 
    specify the path to the \<filename>.lua file as follows: **dofile(DATA_DIR.."\<filename>.lua”)**
 4. Save init.lua and run wireshark
-
-   
-
-
+  
 
 # Wireshark Bitcoin protocol status
 <img src="https://user-images.githubusercontent.com/57450244/96885041-2958ec00-14bd-11eb-8653-e4b0dceed001.JPG" width="70%"></img>
