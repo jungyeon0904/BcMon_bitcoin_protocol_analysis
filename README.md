@@ -7,7 +7,7 @@ Providing the bitcoin protocol extension file
 : sendcmpct, cmpctblock, getblocktxn, blocktxn
 
 
-# How To Run This Script:
+# How To Run This Script
 // Ubuntu 18.04, Wireshark 3.3.1
 
 
