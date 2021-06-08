@@ -3,7 +3,7 @@ New inv type and protocol messages that have been changed during block delivery 
 BcMon provides a Wireshark Bitcoin protocol analysis extension file.
 
 
-Providing the bitcoin protocol extension file
+Providing the bitcoin protocol dissector files  
 : sendcmpct, cmpctblock, getblocktxn, blocktxn
 
 
@@ -33,7 +33,7 @@ See the Wireshark Developer's Guide chapter on Lua
 
 # Bitcoin Compact Block Relay Protocol
 
-The protocol is intended to be used in two ways, depending on the peers and bandwidth available, as shown in the figure.
+The protocol is intended to be used in two ways, depending on the peers and bandwidth available, as shown in the figure.  
 
 <img src="https://user-images.githubusercontent.com/57450244/121130893-ff94df80-c869-11eb-896f-832337cd71a5.jpg" width="500" height="300">
 
@@ -54,3 +54,7 @@ Getblocktxn
 Blocktxn 
 --------
 <img src="https://user-images.githubusercontent.com/57450244/121138369-936aa980-c872-11eb-97eb-c34b02e6decb.png" width="600" height="500"></img>
+
+Reference
+---------
+https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki and https://en.bitcoin.it/wiki/Protocol_documentation
