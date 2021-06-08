@@ -41,16 +41,16 @@ The protocol is intended to be used in two ways, depending on the peers and band
 
 Sendcmpct
 ---------
-
+<img src="https://user-images.githubusercontent.com/57450244/121138358-91084f80-c872-11eb-9adf-60faad521376.png" width="500" height="400"></img>
 
 Cmpctblock
 ----------
-
+<img src="https://user-images.githubusercontent.com/57450244/121138365-92397c80-c872-11eb-844b-f2b69815582f.png" width="500" height="400"></img>
 
 Getblocktxn
 ----------
-
+<img src="https://user-images.githubusercontent.com/57450244/121138367-92d21300-c872-11eb-8efd-f4e1eb5aa24a.png" width="500" height="400"></img>
 
 Blocktxn 
 --------
-
+<img src="https://user-images.githubusercontent.com/57450244/121138369-936aa980-c872-11eb-97eb-c34b02e6decb.png" width="500" height="400"></img>
