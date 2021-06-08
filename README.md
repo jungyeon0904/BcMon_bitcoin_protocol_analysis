@@ -21,7 +21,7 @@ See the Wireshark Developer's Guide chapter on Lua
    specify the path to the \<filename>.lua file as follows: **dofile(DATA_DIR.."\<filename>.lua”)**
 4. Save init.lua and run wireshark
 
-<img src="https://user-images.githubusercontent.com/57450244/121110786-d31c9b80-c848-11eb-9506-bfc5de5055b5.gif" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/57450244/121110786-d31c9b80-c848-11eb-9506-bfc5de5055b5.gif" width="500" height="400">
 
 # Bitcoin Compact Block Relay Protocol
 
