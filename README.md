@@ -24,7 +24,11 @@ See the Wireshark Developer's Guide chapter on Lua
 4. Save init.lua and run wireshark
 5. On the Enabled Protocols tab of the Analysis menu, set to Enable Protocols.
 
-<img src="https://user-images.githubusercontent.com/57450244/121110786-d31c9b80-c848-11eb-9506-bfc5de5055b5.gif" width="500" height="400">
+
+
+
+
+<center><img src="https://user-images.githubusercontent.com/57450244/121110786-d31c9b80-c848-11eb-9506-bfc5de5055b5.gif" width="500" height="400"></center>
 
 
 
