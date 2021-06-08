@@ -28,7 +28,7 @@ See the Wireshark Developer's Guide chapter on Lua
 
 
 
-<center><img src="https://user-images.githubusercontent.com/57450244/121110786-d31c9b80-c848-11eb-9506-bfc5de5055b5.gif" width="500" height="400"></center>
+<center><img src="https://user-images.githubusercontent.com/57450244/121110786-d31c9b80-c848-11eb-9506-bfc5de5055b5.gif" width="500" height="200"></center>
 
 
 
