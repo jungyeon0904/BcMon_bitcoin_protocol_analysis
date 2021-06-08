@@ -57,4 +57,5 @@ Blocktxn
 
 Reference
 ---------
-https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki and https://en.bitcoin.it/wiki/Protocol_documentation
+https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki  
+https://en.bitcoin.it/wiki/Protocol_documentation
