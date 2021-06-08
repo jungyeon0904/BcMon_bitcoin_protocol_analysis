@@ -40,6 +40,10 @@ See the Wireshark Developer's Guide chapter on Lua
 
 The protocol is intended to be used in two ways, depending on the peers and bandwidth available, as shown in the figure.
 
+<img src="https://user-images.githubusercontent.com/57450244/121130893-ff94df80-c869-11eb-896f-832337cd71a5.jpg" width="500" height="400">
+
+
+
 Sendcmpct
 ---------
 
