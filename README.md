@@ -22,7 +22,7 @@ See the Wireshark Developer's Guide chapter on Lua
    specify the path to the \<filename>.lua file as follows:
    <pre>
    <code>
-   dofile(DATA_DIR.."\<filename>.lua")
+   dofile(DATA_DIR.."filename.lua")
    </code>
    </pre>  
 4. Save init.lua and run wireshark
